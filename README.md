@@ -1,6 +1,7 @@
 # RxJava : ReactiveX를 Java에서 사용할수 있게 해주는 라이브러리
 
 출처 : RxJava 프로그래밍 _ 한빛미디어
+[참고](https://github.com/JihyunK/project_zzz_note/blob/master/study/RxJava.md)
 
 ## [ 순서 ]
 > 
